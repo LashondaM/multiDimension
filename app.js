@@ -13,7 +13,7 @@ function salad() {
 
     return penny;
 }
-
+//askfornothing 
 console.log(salad(myArray))
 
 // ASK FOR HELP TOMORROW-------------------------------
